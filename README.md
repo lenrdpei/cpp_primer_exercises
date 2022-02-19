@@ -10,5 +10,5 @@ If you've figured out any careless mistakes, please view existing issues or kind
 ## **Reference**
 For source code of examples offered in the book, please visit [*here*](http://www.informit.com/title/0321714113).  
 For cpp reference in Chinese (Simplified), please visit [*here*](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5).  
-For cpp reference in English, please visit [*here*](https://en.cppreference.com/w/).
-If you'd like more reference on Markdown syntax in Chinese (Simplified), please visit [*here*](https://markdown.com.cn/).
+For cpp reference in English, please visit [*here*](https://en.cppreference.com/w/).  
+If you'd like more reference on Markdown syntax in Chinese (Simplified), please visit [*here*](https://markdown.com.cn/).  
