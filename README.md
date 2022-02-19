@@ -1,6 +1,6 @@
 ## **Description**
 This is a repo to record personal answers of [*lenrdpei*](https://github.com/lenrdpei) to attached exercises in *C++ Primer 5th edition*.  
-If you've figured out any careless mistakes, please kindly open an issue.  
+If you've figured out any careless mistakes, please kindly [*open an issue*](https://github.com/lenrdpei/cpp_primer_practice/issues/new).  
 ## **Progress**
 - [ ] Section 1: C++ Basis
 - [ ] Section 2: C++ Standard Library
