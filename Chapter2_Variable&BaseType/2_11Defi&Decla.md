@@ -1,0 +1,3 @@
+(a) definition  
+(b) definition  
+(c) declaration
