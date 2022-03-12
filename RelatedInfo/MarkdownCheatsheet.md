@@ -10,7 +10,7 @@
 H~2~O
 x^2^
 
-> blockquote
+> blockquote  
 > here
 
 1. First item
@@ -25,16 +25,17 @@ x^2^
 
 ---
 
-[title](https://www.example.com)
+[title](https://www.example.com "explanation")
 <https://www.example.com>
 
-![a pic](https://www.bwallpaperhd.com/wp-content/uploads/2018/07/NaganoWinter.jpg "a colorful valley")
+![a pic](https://www.bwallpaperhd.com/wp-content/uploads/2018/07/NaganoWinter.jpg "a beautiful valley")
 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
+this is `vscode`
 ```cpp
 {
   "firstName": "John",
@@ -42,6 +43,11 @@ x^2^
   "age": 25
 }
 ```
+    example
+    for
+    code block
+
+
 
 Here's a sentence with a footnote. [^1]
 
@@ -54,4 +60,4 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-That is so funny! :joy:
+That is so funny! :joy: :sleepy: :sob:
