@@ -3,9 +3,9 @@ This is a repo to record personal answers of [*lenrdpei*](https://github.com/len
 As a beginner in Markdown, some references for basic Markdown syntax are also included.  
 If you've figured out any careless mistakes, please view existing issues or kindly open a new one.  
 ## **Progress**
-:pencil: 3 of 19 Chapters Done...  
+:pencil: 7 of 19 Chapters Done...  
 :book: 9 of 19 Chapters Read...
-- [ ] Section 1: C++ Basis
+- [x] Section 1: C++ Basis
 - [ ] Section 2: C++ Standard Library
 - [ ] Section 3: Tools for Class Designers
 - [ ] Section 4: Advanced Themes
