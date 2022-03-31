@@ -10,6 +10,7 @@ public:
         i = rhs.i;
         return *this;
     }
+    ~HasPtr() { delete ps; } // destructor
 
 private:
     std::string *ps;
