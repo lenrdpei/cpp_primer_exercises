@@ -11,6 +11,5 @@ int main()
     auto p = alloc.allocate(len + 1);
     cin.get(p, len + 1);
     cout << p << endl;
-    alloc.destroy(p);
     alloc.deallocate(p, len + 1);
 }
