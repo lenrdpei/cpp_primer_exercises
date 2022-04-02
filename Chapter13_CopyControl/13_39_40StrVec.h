@@ -57,6 +57,20 @@ public:
 	// add elements
 	size_t size() const { return first_free - elements; }
 	size_t capacity() const { return cap - elements; }
+	void reserve(size_t newcp)
+	{
+		if (newcp <= capacity())
+			return;
+		auto newdata = alloc.allocate(newcp);
+		auto dest = newdata;
+		auto elem = elements;
+		for (size_t i = 0; i != size(); ++i)
+			alloc.construct(dest++, std::move(*elem++));
+		free();
+		elements = newdata;
+		first_free = dest;
+		cap = elements + newcp;
+	}
 
 private:
 	static std::allocator<std::string> alloc; // allocates the elements
