@@ -1,6 +1,6 @@
 ## **Description**
 This is a repo to record personal answers of [*lenrdpei*](https://github.com/lenrdpei) to attached exercises in *C++ Primer 5th edition*.  
-As a beginner in Markdown, some references for basic Markdown syntax are also included.  
+As a beginner in Markdown, I also included some references for basic Markdown syntax in the repo.  
 If you've figured out any careless mistakes, please view existing issues or kindly open a new one.  
 ## **Progress**
 :pencil: 7 of 19 Chapters Done...  
